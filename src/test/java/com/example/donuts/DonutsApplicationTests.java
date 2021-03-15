@@ -1,10 +1,10 @@
-package com.example.donut;
+package com.example.donuts;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class DonutsApplicationTests {
 
 	@Test
 	void contextLoads() {
